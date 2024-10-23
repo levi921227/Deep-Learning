@@ -1,4 +1,3 @@
-#Overview
 DNN is a type of artificial neural network that consists of multiple layers of 
 interconnected nodes or neurons. These networks are typically composed of 
 three main types of layers: the input layer, the hidden layers, and the output 
