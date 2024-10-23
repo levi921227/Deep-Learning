@@ -24,7 +24,7 @@ repeat these action until the gradient become very small, indicating that the lo
 function has reached a local minimum. 
 
 
-## data set
+## Data set
 - nmist : The dataset that include many types of handwrite number picture, it's picture is 28*28 pixels
   
   ![DNN_raw](https://github.com/user-attachments/assets/a78fddea-b78b-4234-bf6c-b3a2d3fbf531)
