@@ -1,0 +1,13 @@
+#Overview
+DNN is a type of artificial neural network that consists of multiple layers of 
+interconnected nodes or neurons. These networks are typically composed of 
+three main types of layers: the input layer, the hidden layers, and the output 
+layer. The input layer receives the raw data, the hidden layers process this data 
+through weighted connections and nonlinear activation functions, and the output 
+layer produces the final result or prediction. 
+
+Compared to MLP, DNN has higher number of hidden layers, which allows it to 
+learn and model more complex patterns and relationships in data. Also, DNN 
+uses backpropagation to update the weight so that it can improve the accuracy 
+of prediction. However, the additional layers also introduce more cost and 
+typically require more data and longer training times than MLP. 
