@@ -10,15 +10,28 @@ This is to record everytimes Lab and project in Deep Learning course including A
 - Tensorflow : 2.6.0
 - Tensorflow-gpu : 2.6.0
 - CUDA : 11.2
+- cuDNN : 8.1
+- GPU : RTX 4060 laptop
 
 To install the module in Acaconda :
 
-    conda install "module name"=="version"
+    pip install "module name"=="version"
 
 
 To show all module's version :
 
-    conda list
+    pip list
+
+## Final Project
+For final project of the course, we will use OpenCV to preprocess the picture dataset and try to build a model like FaceNet to fulfill face recognition.
+Install OpenCV (The version we use is 4.4.0.46)
+
+    pip install OpenCV-python==4.4.0.46
+
+We also need to install MCTNN for preprocessing
+
+    pip install mctnn==0.1.1
+    
 
 
   
